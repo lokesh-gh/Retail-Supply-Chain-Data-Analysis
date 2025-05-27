@@ -53,30 +53,19 @@ This Power BI dashboard provides a comprehensive analysis of retail supply chain
 
  8. Insights & Recommendations
 
-  Key Insights
+ Key Insights
   
 - Consumer segment leads with the highest total sales.
 - Corporate segment has higher profit margins in some regions.
 - Top 10 products contribute a large portion of total revenue.
 - Sales trend is increasing year by year.
 
-  Recommendations
+ Recommendations
   
 - Promote high-performing products (like Canon and Fellowes).
 - Investigate underperforming products to revise pricing or marketing.
 - Focus more on the Consumer and Corporate segments for future campaigns.
 - Explore new sales strategies for Home Office segment with low sales but potential.
-
-
-
-  How to Use This Project
-
-1. Clone or download this repository.
-2. Open `Retail Supply Chain Dashboard.pbix` in Power BI Desktop.
-3. Explore visuals, slicers, and filters.
-4. Adjust or extend the report for deeper analysis.
-
-
 
   Credits
 
